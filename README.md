@@ -99,6 +99,6 @@ npm run start:prod
 4. Envía tus cambios a tu repositorio (`git push origin feature/nueva-funcionalidad`).
 5. Abre un Pull Request.
 
-## Licencia
+## 💡 Autor
 
-Este proyecto está bajo la licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
+Kenin Ojeda 
